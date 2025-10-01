@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967589434863",
+    "project_id": "smartfeedback-62990",
+    "storage_bucket": "smartfeedback-62990.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967589434863:android:83b446c249e38efe99921a",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuJK3KYDnnlUKUsMIXpShvP5pbXaEeUCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
